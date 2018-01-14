@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="http://www.gokhan-gokalp.com/wp-content/uploads/2017/07/graphQL.png" >
+</p>
+
 # GraphQL Sequalize example
 
 A simple example proyect using GraphQL building schema's and mutations's. 
