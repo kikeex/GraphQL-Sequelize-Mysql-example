@@ -1,5 +1,5 @@
 {
-  "name": "chiper-api",
+  "name": "GraphQL-Sequalize-Mysql-example",
   "version": "1.0.0",
   "main": "server/server.js",
   "scripts": {
@@ -7,7 +7,7 @@
     "lint": "../../node_modules/.bin/eslint .",
     "lint:fix": "../../node_modules/.bin/eslint --fix ."
   },
-  "author": "Imaginamos",
+  "author": "José Oberto",
   "dependencies": {
     "babel": "6.23.0",
     "babel-cli": "6.26.0",
