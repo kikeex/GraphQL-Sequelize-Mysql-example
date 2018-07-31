@@ -12,6 +12,7 @@ dialect and install the dependency. Sequelize creates the tables and insert one 
 - yarn install
 - yarn start
 
+<a href="https://github.com/kikeex/GraphQL-Sequelize-Mysql-example/shields/graphs/contributors"><img src="https://opencollective.com/shields/contributors.svg?width=890" /></a>
 
 
 
