@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize');
 
-const Conn = new Sequelize('chipertest', 'root', '', {
+const Conn = new Sequelize('test', 'root', '', {
     host: 'localhost',
     dialect: 'mysql',
     operatorsAliases: false,
@@ -38,7 +38,7 @@ Users.sync({ force: true }).then(() => {
         password: '12345',
         firstName: 'admin',
         lastName: 'admin',
-        email: 'support@chiper.com',
+        email: 'support@test.com',
     });
 });
 
