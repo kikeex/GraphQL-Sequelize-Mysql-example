@@ -19,7 +19,7 @@
     "express-graphql": "0.6.11",
     "graphql": "0.12.3",
     "lint": "1.1.2",
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "mysql2": "1.5.1",
     "sequelize": "4.31.1"
   }
