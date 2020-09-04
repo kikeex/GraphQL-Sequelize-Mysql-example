@@ -21,6 +21,6 @@
     "lint": "1.1.2",
     "lodash": "4.17.4",
     "mysql2": "1.5.1",
-    "sequelize": "4.31.1"
+    "sequelize": "6.3.5"
   }
 }
